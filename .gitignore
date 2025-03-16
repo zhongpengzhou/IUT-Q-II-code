@@ -12,6 +12,9 @@ __pycache__/
 search
 search.exe
 
+# vscode 相关文件
+.vscode/
+
 # 忽略搜索结果和备份文件
 search_results.txt
 backup_results.txt
