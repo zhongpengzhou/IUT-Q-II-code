@@ -1,0 +1,17 @@
+# 忽略 macOS 系统文件
+.DS_Store
+
+# 忽略 Windows 系统文件
+Thumbs.db
+desktop.ini
+
+# 忽略 Python 缓存文件
+__pycache__/
+
+# 忽略 C++ 编译文件
+search
+search.exe
+
+# 忽略搜索结果和备份文件
+search_results.txt
+backup_results.txt
